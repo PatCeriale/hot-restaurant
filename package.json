@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/PatCeriale/hot-restaurant/issues"
   },
-  "homepage": "https://github.com/PatCeriale/hot-restaurant#readme"
+  "homepage": "https://github.com/PatCeriale/hot-restaurant#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
